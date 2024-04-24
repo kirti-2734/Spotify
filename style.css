@@ -5,7 +5,7 @@ body{
  background-color: black;
  color: white;
  overflow: hidden;
-}
+} 
 
 .main{
 
@@ -395,7 +395,8 @@ a{
 
 .range2::-webkit-slider-thumb{
 
-    display: none;
+    display: none; 
+    appearance: none;
 }
 
 .pk1:hover{
